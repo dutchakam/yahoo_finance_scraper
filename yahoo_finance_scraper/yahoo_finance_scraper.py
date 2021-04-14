@@ -1,3 +1,7 @@
+# @Time    : 2021/04/05
+# @Author  : alexanderdutchak@gmail.com
+# @Software: PyCharm
+
 import pandas as pd
 import pandas_datareader as web
 import datetime as dt
